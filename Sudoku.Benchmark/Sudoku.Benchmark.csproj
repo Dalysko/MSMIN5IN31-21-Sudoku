@@ -20,6 +20,7 @@
     <ProjectReference Include="..\Sudoku.HumanTechnique\Sudoku.HumanTechnique.csproj" />
     <ProjectReference Include="..\Sudoku.DlxlibSolvers\Sudoku.DlxlibSolvers.csproj" />
     <ProjectReference Include="..\Sudoku.Shared\Sudoku.Shared.csproj" />
+    <ProjectReference Include="..\Sudoku.Z3solver.Spark\Sudoku.Z3solver.Spark.csproj" />
     <ProjectReference Include="..\Sudoku.Z3Solvers\Sudoku.Z3Solvers.csproj" />
     <ProjectReference Include="..\SwarmIntelligenceSolver\Sudoku.SwarmIntelligenceSolver.csproj" />
   </ItemGroup>
