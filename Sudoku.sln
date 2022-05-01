@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.Shared", "Sudoku.Shared\Sudoku.Shared.csproj", "{875F71B2-99ED-4366-9C28-E5FFB5B5AA41}"
 EndProject
@@ -16,25 +16,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Puzzles", "Puzzles", "{5351
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.Z3Solvers", "Sudoku.Z3Solvers\Sudoku.Z3Solvers.csproj", "{A35C20E9-B1AC-47FD-9213-E84C6C37C2E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.GeneticSharpSolvers", "Sudoku.GeneticSharpSolvers\Sudoku.GeneticSharpSolvers.csproj", "{9032934B-B494-4D4E-912F-CE5443CBAEE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.GeneticSharpSolvers", "Sudoku.GeneticSharpSolvers\Sudoku.GeneticSharpSolvers.csproj", "{9032934B-B494-4D4E-912F-CE5443CBAEE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Backtracking.Solvers", "Sudoku.Backtracking.Solvers\Sudoku.Backtracking.Solvers.csproj", "{B1619900-6934-4F1E-8BD3-F572A99FEB41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.Backtracking.Solvers", "Sudoku.Backtracking.Solvers\Sudoku.Backtracking.Solvers.csproj", "{B1619900-6934-4F1E-8BD3-F572A99FEB41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.GraphicalModelSolver", "Sudoku.GraphicalModelSolver\Sudoku.GraphicalModelSolver.csproj", "{F7E2145C-30AE-42DF-B1D2-8ACAD4661FC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.GraphicalModelSolver", "Sudoku.GraphicalModelSolver\Sudoku.GraphicalModelSolver.csproj", "{F7E2145C-30AE-42DF-B1D2-8ACAD4661FC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.ORToolsSolvers", "Sudoku.ORToolsSolvers\Sudoku.ORToolsSolvers.csproj", "{86F69D33-4F08-4F59-8BCD-DAAE50F000DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.ORToolsSolvers", "Sudoku.ORToolsSolvers\Sudoku.ORToolsSolvers.csproj", "{86F69D33-4F08-4F59-8BCD-DAAE50F000DD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.SwarmIntelligenceSolver", "SwarmIntelligenceSolver\Sudoku.SwarmIntelligenceSolver.csproj", "{1DEE874F-1A5F-46DD-AAFB-100C222CBC42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoko.CSPSolver", "Sudoko.CSPSolver\Sudoko.CSPSolver.csproj", "{6A017087-FCBA-42DB-95F9-15D31B8B754D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoko.CSPSolver", "Sudoko.CSPSolver\Sudoko.CSPSolver.csproj", "{6A017087-FCBA-42DB-95F9-15D31B8B754D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.NorvigSolver", "Sudoku.NorvigSolver\Sudoku.NorvigSolver.csproj", "{0D6D18E4-5937-437C-84B0-417409DD3ACF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.NorvigSolver", "Sudoku.NorvigSolver\Sudoku.NorvigSolver.csproj", "{0D6D18E4-5937-437C-84B0-417409DD3ACF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.NeuralNetworkSolver", "Sudoku.NeuralNetworkSolver\Sudoku.NeuralNetworkSolver.csproj", "{89ADA199-860A-4302-BC18-702A0E5B1C56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.NeuralNetworkSolver", "Sudoku.NeuralNetworkSolver\Sudoku.NeuralNetworkSolver.csproj", "{89ADA199-860A-4302-BC18-702A0E5B1C56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.HumanTechnique", "Sudoku.HumanTechnique\Sudoku.HumanTechnique.csproj", "{2D65972F-26EF-4C15-9421-15C13716BB56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.HumanTechnique", "Sudoku.HumanTechnique\Sudoku.HumanTechnique.csproj", "{2D65972F-26EF-4C15-9421-15C13716BB56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.DlxlibSolvers", "Sudoku.DlxlibSolvers\Sudoku.DlxlibSolvers.csproj", "{8B3423A9-412D-4ACF-AC0B-98CD81DA4276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.DlxlibSolvers", "Sudoku.DlxlibSolvers\Sudoku.DlxlibSolvers.csproj", "{8B3423A9-412D-4ACF-AC0B-98CD81DA4276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Z3solver.Spark", "Sudoku.Z3solver.Spark\Sudoku.Z3solver.Spark.csproj", "{E4112B1E-D5C8-46D1-92E7-74094FA0A81D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -94,6 +96,10 @@ Global
 		{8B3423A9-412D-4ACF-AC0B-98CD81DA4276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B3423A9-412D-4ACF-AC0B-98CD81DA4276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B3423A9-412D-4ACF-AC0B-98CD81DA4276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4112B1E-D5C8-46D1-92E7-74094FA0A81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4112B1E-D5C8-46D1-92E7-74094FA0A81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4112B1E-D5C8-46D1-92E7-74094FA0A81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4112B1E-D5C8-46D1-92E7-74094FA0A81D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
